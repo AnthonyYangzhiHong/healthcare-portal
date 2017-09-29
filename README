@@ -1,0 +1,12 @@
+Single page react app served by an express server
+
+Make sure to npm install in both frontend and backend directories
+
+To run a local instance that restarts after frontend changes:
+cd frontend
+npm start
+
+To run the express with an optimized production build:
+cd to the root of this directory
+./run-portal.sh
+
